@@ -49,7 +49,7 @@ body{
 }
 
 .img-slider{
-	min-height: 320px;
+	height: 600px;
 }
 
 .navMenu{
@@ -102,4 +102,25 @@ footer{
 }
 .about  .text-holder {
 	padding: 15px!important;
+}
+
+#maincarousel {
+	margin-top: 122px;
+}
+
+.carousel-caption {
+	top: 0;
+    right: 0;
+    bottom: 0px;
+    left: 0%;
+    padding-top: 0px;
+	padding-bottom: 0px;
+    color: #fff;
+    text-align: center;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #000000a1;
 }
