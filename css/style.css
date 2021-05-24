@@ -99,13 +99,14 @@ footer{
 .about img.img-fluid {
 	height: 100%;
 	width: 100%;
+	min-height: 220px;
 }
 .about  .text-holder {
 	padding: 15px!important;
 }
 
 #maincarousel {
-	margin-top: 122px;
+	margin-top: 128px;
 }
 
 .carousel-caption {
